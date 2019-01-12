@@ -1,0 +1,19 @@
+{
+  "name": "pull-request-builder",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"all tests are passing\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexandruluca/pull-request-builder.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexandruluca/pull-request-builder/issues"
+  },
+  "homepage": "https://github.com/alexandruluca/pull-request-builder#readme"
+}
